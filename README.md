@@ -12,13 +12,15 @@
 
 - Determining Usefulness of an Online Review [Yelp Review](https://github.com/zyh10655/CS760)
 
-- 🌱 I’m currently learning **Natural Language Processing, Graph Embeddings, Information Extraction, Julia**
+- 🌟 I have experience with **Computer Vision, Natural Language Processing, Multi-modality models, Foundation models, Reinforcement Learning**
+
+- 🌱 I’m currently learning **Deep Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucifermorningstar1305](https://github.com/lucifermorningstar1305)
 
 - 📝 I regularly write articles on [https://medium.com/@adityam.ghosh](https://medium.com/@adityam.ghosh)
 
-- 💬 Ask me about **data science, python, julia, natural language processing, machine learning**
+- 💬 Ask me about **data science, python, natural language processing, machine learning, deep learning, reinforcement learning, computer vision, foundation models, multimodal models**
 
 - 📫 How to reach me **adityam.ghosh@gmail.com**
 
