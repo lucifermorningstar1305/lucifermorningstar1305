@@ -10,7 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/adityamghosh" target="blank"><img src="https://img.shields.io/twitter/follow/adityamghosh?logo=twitter&style=for-the-badge" alt="adityamghosh" /></a> </p>
 
-- Determining Usefulness of an Online Review [Yelp Review](https://github.com/zyh10655/CS760)
+- Recent Projects:
+  - Mobile-based CLIP model [qriousAI](https://github.com/lucifermorningstar1305/qriousAI)
+  - Project Poseidon [project poseidon](https://github.com/lucifermorningstar1305/projectposiedon)
+  - Determining Usefulness of an Online Review [Yelp Review](https://github.com/zyh10655/CS760)
 
 - 🌟 I have experience with **Computer Vision, Natural Language Processing, Multi-modality models, Foundation models, Reinforcement Learning**
 
