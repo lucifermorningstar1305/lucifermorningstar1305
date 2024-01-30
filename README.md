@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifermorningstar1305" alt="lucifermorningstar1305" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adityamghosh" target="blank"><img src="https://img.shields.io/twitter/follow/adityamghosh?logo=twitter&style=for-the-badge" alt="adityamghosh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d97tum" target="blank"><img src="https://img.shields.io/twitter/follow/adityamghosh?logo=twitter&style=for-the-badge" alt="adityamghosh" /></a> </p>
 
 - Recent Projects:
   - Mobile-based CLIP model [qriousAI](https://github.com/lucifermorningstar1305/qriousAI)
