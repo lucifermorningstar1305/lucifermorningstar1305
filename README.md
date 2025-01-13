@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Adityam Ghosh</h1>
-<h3 align="center">A Machine Learning Engineer and a Full-Stack Developer</h3>
+<h3 align="center">CEO & Co-Founder of EurekAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifermorningstar1305&label=Profile%20views&color=0e75b6&style=flat" alt="lucifermorningstar1305" /> </p>
 
@@ -11,6 +11,7 @@
 <p align="left"> <a href="https://twitter.com/d97tum" target="blank"><img src="https://img.shields.io/twitter/follow/adityamghosh?logo=twitter&style=for-the-badge" alt="adityamghosh" /></a> </p>
 
 - Recent Projects:
+  - EurekAI: A platform that makes research fun for every reserachers (https://www.eurekai.tech) 
   - Mobile-based CLIP model [qriousAI](https://github.com/lucifermorningstar1305/qriousAI)
   - Project Poseidon [project poseidon](https://github.com/lucifermorningstar1305/projectposiedon)
   - Determining Usefulness of an Online Review [Yelp Review](https://github.com/zyh10655/CS760)
