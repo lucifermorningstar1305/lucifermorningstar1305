@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **adityam.ghosh@gmail.com**
 
-- ⚡ Fun fact **I wish I could fly like Superman**
+- ⚡ Fun fact **I love watching anime** - [MyAnimeList](https://myanimelist.net/animelist/d97tum)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
