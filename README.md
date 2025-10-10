@@ -11,24 +11,22 @@
 <p align="left"> <a href="https://twitter.com/d97tum" target="blank"><img src="https://img.shields.io/twitter/follow/adityamghosh?logo=twitter&style=for-the-badge" alt="adityamghosh" /></a> </p>
 
 - Recent Projects:
+  - pyAlexS3: OpenAlex S3 Ingestion Service for processing large amounts of data of OpenAlex directly (https://github.com/EurekAI-Org/pyalexs3) 
   - EurekAI: A platform that makes research fun for every reserachers (https://www.eurekai.tech) 
   - Mobile-based CLIP model [qriousAI](https://github.com/lucifermorningstar1305/qriousAI)
   - Project Poseidon [project poseidon](https://github.com/lucifermorningstar1305/projectposiedon)
   - Determining Usefulness of an Online Review [Yelp Review](https://github.com/zyh10655/CS760)
 
-- 🌟 I have experience with **Computer Vision, Natural Language Processing, Multi-modality models, Foundation models, Reinforcement Learning**
-
-- 🌱 I’m currently learning **Deep Reinforcement Learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/lucifermorningstar1305](https://github.com/lucifermorningstar1305)
 
-- 📝 I regularly write articles on [https://medium.com/@adityam.ghosh](https://medium.com/@adityam.ghosh)
+- 📝 I occasionally write articles on [https://medium.com/@adityam.ghosh](https://medium.com/@adityam.ghosh)
 
 - 💬 Ask me about **data science, python, natural language processing, machine learning, deep learning, reinforcement learning, computer vision, foundation models, multimodal models**
 
 - 📫 How to reach me **adityam.ghosh@gmail.com**
 
-- ⚡ Fun fact **I love watching anime** - [MyAnimeList](https://myanimelist.net/animelist/d97tum)
+- ⚡ **I love watching anime** - [MyAnimeList](https://myanimelist.net/animelist/d97tum)
+- In my free time I like assembling Gundam Model Kits.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
